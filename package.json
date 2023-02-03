@@ -1,5 +1,10 @@
 {
   "private": true,
+  "author": {
+    "name": "Johnny Lin",
+    "email": "hi@openlyoperated.org",
+    "url": "openlyoperated.org"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -8,6 +13,7 @@
   "dependencies": {
     "next": "latest",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "typewriter-effect": "^2.19.0"
   }
 }
