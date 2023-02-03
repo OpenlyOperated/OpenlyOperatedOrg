@@ -174,7 +174,7 @@ export default function Layout({ children }) {
                     <li>
                       <a
                         target="_blank"
-                        href="https://github.com/openlyoperated"
+                        href="https://github.com/openlyoperated/openlyoperatedorg"
                       >
                         GitHub
                       </a>
